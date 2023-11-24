@@ -1,0 +1,14 @@
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\bin\Debug\net6.0\FlowChart.exe
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\bin\Debug\net6.0\FlowChart.deps.json
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\bin\Debug\net6.0\FlowChart.runtimeconfig.json
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\bin\Debug\net6.0\FlowChart.dll
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\bin\Debug\net6.0\FlowChart.pdb
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\obj\Debug\net6.0\FlowChart.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\obj\Debug\net6.0\FlowChart.AssemblyInfoInputs.cache
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\obj\Debug\net6.0\FlowChart.AssemblyInfo.cs
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\obj\Debug\net6.0\FlowChart.csproj.CoreCompileInputs.cache
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\obj\Debug\net6.0\FlowChart.dll
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\obj\Debug\net6.0\refint\FlowChart.dll
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\obj\Debug\net6.0\FlowChart.pdb
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\obj\Debug\net6.0\FlowChart.genruntimeconfig.cache
+D:\University\3year\DevelopmentOnWindows\Overview\FlowChart\obj\Debug\net6.0\ref\FlowChart.dll
